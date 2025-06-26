@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 # GitHub Readme Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xfg0218&repo=greenplum--summarize)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xfg0218&repo=dba-document)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xfg0218&repo=oracle-to-greenplum)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xfg0218&repo=dba-document)](https://github.com/anuraghazra/github-readme-stats)
